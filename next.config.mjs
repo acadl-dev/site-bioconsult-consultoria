@@ -9,9 +9,6 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  output: 'export', // Habilita a exportação estática
-  trailingSlash: true, // Importante para GitHub Pages
-  basePath: '/site-bioconsult-consultoria', // Troque pelo nome do repositório
 }
 
 export default nextConfig
